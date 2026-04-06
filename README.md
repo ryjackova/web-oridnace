@@ -1,2 +1,2 @@
 # web-oridnace
-Webové stránky ordinace
+Webové stránky ordinace MUDr. Ivany Ryjáčkové
