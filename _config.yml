@@ -2,6 +2,4 @@ title: MUDr. Ivana Ryjáčková
 description: Webové stránky ordinace MUDr. Ivany Ryjáčkové
 lang: cs-CZ
 theme: minima
-markdown: kramdown
-plugins:
-    - jekyll-feed
+#markdown: kramdown
